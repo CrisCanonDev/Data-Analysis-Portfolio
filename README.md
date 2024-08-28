@@ -6,7 +6,7 @@ This data analysis project aims to clean data of companies' laid-off employees o
 
 ### Data Sources
 
-Laid Offs data: The primary dataset used for this analysis is the "laidoffs.csv" file, containing detailed information about when a company laid off several employees on a particular date.
+Laid Offs data: The primary dataset used for this analysis is the "layoffs.csv" file, containing detailed information about when a company laid off several employees on a particular date.
 
 
 ### Tools
